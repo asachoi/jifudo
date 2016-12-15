@@ -1,0 +1,45 @@
+{
+  "ProjectName": "JiFuDo",
+  "ProjectGuid": "ba78e376-127b-47e1-bba2-a76d628bd69b",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.JiFuDo",
+  "DisplayName": "JiFuDo",
+  "Author": "",
+  "Description": "JiFuDo",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{1240e31e-cf64-48b5-ab17-036ac7e305ae}",
+  "WP8ProductID": "{e5dfb47b-2097-4429-8a51-38530c09027b}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.JiFuDo",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
